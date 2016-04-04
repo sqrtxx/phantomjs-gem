@@ -160,4 +160,3 @@ module Phantomjs
     end
   end
 end
-OB
